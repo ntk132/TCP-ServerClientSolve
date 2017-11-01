@@ -1,0 +1,9 @@
+D:\VS 2015\SClient\SClient\bin\Debug\SClient.exe.config
+D:\VS 2015\SClient\SClient\bin\Debug\SClient.exe
+D:\VS 2015\SClient\SClient\bin\Debug\SClient.pdb
+D:\VS 2015\SClient\SClient\obj\Debug\SClient.csprojResolveAssemblyReference.cache
+D:\VS 2015\SClient\SClient\obj\Debug\SClient.Properties.Resources.resources
+D:\VS 2015\SClient\SClient\obj\Debug\SClient.SClient.resources
+D:\VS 2015\SClient\SClient\obj\Debug\SClient.csproj.GenerateResource.Cache
+D:\VS 2015\SClient\SClient\obj\Debug\SClient.exe
+D:\VS 2015\SClient\SClient\obj\Debug\SClient.pdb

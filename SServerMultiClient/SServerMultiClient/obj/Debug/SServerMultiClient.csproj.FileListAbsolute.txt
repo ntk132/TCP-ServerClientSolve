@@ -1,0 +1,9 @@
+D:\VS 2015\SServerMultiClient\SServerMultiClient\bin\Debug\SServerMultiClient.exe.config
+D:\VS 2015\SServerMultiClient\SServerMultiClient\bin\Debug\SServerMultiClient.exe
+D:\VS 2015\SServerMultiClient\SServerMultiClient\bin\Debug\SServerMultiClient.pdb
+D:\VS 2015\SServerMultiClient\SServerMultiClient\obj\Debug\SServerMultiClient.Properties.Resources.resources
+D:\VS 2015\SServerMultiClient\SServerMultiClient\obj\Debug\SServerMultiClient.SServer.resources
+D:\VS 2015\SServerMultiClient\SServerMultiClient\obj\Debug\SServerMultiClient.csproj.GenerateResource.Cache
+D:\VS 2015\SServerMultiClient\SServerMultiClient\obj\Debug\SServerMultiClient.exe
+D:\VS 2015\SServerMultiClient\SServerMultiClient\obj\Debug\SServerMultiClient.pdb
+D:\VS 2015\SServerMultiClient\SServerMultiClient\obj\Debug\SServerMultiClient.csprojResolveAssemblyReference.cache
